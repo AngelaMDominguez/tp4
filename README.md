@@ -82,3 +82,27 @@
 	</body>
 
 </html>
+
+<-- Css file -->
+h1 {
+  margin-bottom: 0;
+  font-family: 'Lobster', cursive;
+  color: Pink;
+   font-size: 300%;
+}
+
+ul,
+ol {
+  margin-top: 0;
+}
+
+#directions {
+  font-family: 'Staatliches', cursive;
+  
+}
+
+.copyright {
+  font-family: 'Lobster', cursive;
+  font-size: 9px;
+  font-style: italic;
+}
